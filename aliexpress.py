@@ -1,6 +1,5 @@
 from urllib.request import urlopen
 import bs4
-import itertools
 
 class AliExpress(object):
         """aliexpress Class"""
