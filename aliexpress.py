@@ -35,7 +35,6 @@ class AliExpress(object):
             print(data)
 
 
-
 if __name__ == "__main__":
     c = AliExpress()
     c.run()
